@@ -26,7 +26,7 @@ A flexible tool for generating reverse shell payloads in various programming lan
 
 [View Reverse Shell Generator](./ReverseShellGenerator)
 
-### LinuxPrivEscScanner
+### LinuxPrivEscScanner (STILL IN DEVELOPMENT)
 
 A comprehensive scanner for identifying potential privilege escalation vectors on Linux systems.
 
